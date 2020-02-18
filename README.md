@@ -14,4 +14,5 @@ conda install -c conda-forge selenium
 Aclaracion; Chromedriver debe estar en el mismo directorio.
 Chromedriver se puede descargar desde https://chromedriver.chromium.org
 
-
+___
+###### Author: Alfonso Gauna - alfonsogauna@hotmail.com
