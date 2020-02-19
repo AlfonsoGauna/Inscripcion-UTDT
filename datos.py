@@ -49,3 +49,14 @@ materias = [('',''),
 			('',''),
 			('','')]
 
+"""
+	cambiar el PATH (absolute path) del chromedriver, para no tener problemas
+	con los distintos interpretadores.
+	
+	Ejemplo:
+		chromedriverpath = users/usuario/inscripcion-utdt/chromedriver
+"""
+
+chromedriverpath = './chromedriver'
+
+
