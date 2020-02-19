@@ -4,8 +4,7 @@ import datos
 
 
 ### PATH DEL DRIVER DE GOOGLE
-chormedriver= \
-'./chromedriver'
+chormedriver= datos.chromedriverpath
 
 
 ### URL DE SIGEDU
