@@ -22,11 +22,11 @@ clave = ''
 		minutos = 30
 """
 
-anio = 2020
-mes = 1
-dia = 1
-hora = 12
-minutos = 54
+anio = 
+mes = 
+dia = 
+hora = 
+minutos = 
 
 
 """
@@ -45,9 +45,9 @@ minutos = 54
 
 
 materias = [('',''),
-			('',''),
-			('',''),
-			('','')]
+	    ('',''),
+	    ('',''),
+	    ('','')]
 
 """
 	cambiar el PATH (absolute path) del chromedriver, para no tener problemas
